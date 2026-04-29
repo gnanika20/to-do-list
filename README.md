@@ -21,4 +21,4 @@ It allows users to:
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/to-do-list.git
+   git clone https://github.com/gnanika20/to-do-list.git
