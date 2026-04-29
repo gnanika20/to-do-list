@@ -23,5 +23,11 @@ It allows users to:
    ```bash
    git clone https://github.com/gnanika20/to-do-list.git
 
-## Screenshot
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e389f002-22fe-4604-9ebf-b7afd0e8c2f8" />
+## Screenshots
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e389f002-22fe-4604-9ebf-b7afd0e8c2f8" /> 
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/051ed475-16e7-4554-81fc-8b5c1fbf85ef" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/39b95b32-ff65-4fce-be49-c1ad719a54f3" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f767075c-5bfc-4a5d-80ea-db1caec5edb6" />
