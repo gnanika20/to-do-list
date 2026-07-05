@@ -11,10 +11,15 @@ It allows users to:
 ---
 
 ## Features
-- Menu-driven interface
-- Separate lists for pending, completed, and deleted tasks
-- Input validation with `try/except`
-- Clear formatted output
+- Menu-driven command-line interface
+- Add new tasks
+- View pending, completed, and deleted tasks
+- Mark tasks as completed
+- Delete tasks
+- Input validation using `try/except`
+- Modular and reusable code structure
+- Cleaner task display using reusable helper functions
+- Well-formatted console output
 
 ---
 
